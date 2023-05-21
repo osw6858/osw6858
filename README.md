@@ -12,9 +12,9 @@
 - 😄 Pronouns: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osw6858&layout=compact)](https://github.com/osw6858/github-readme-stats)<br>
-- 🌱 공부중:  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-1572B6?style=flat&logo=TailwindCSS&logoColor=white"/> 
+- 🌱 공부중 <br>   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-1572B6?style=flat&logo=TailwindCSS&logoColor=white"/> 
 
-- ⚡ 기술스택:  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+- ⚡ 기술스택 <br>   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/NodeJs-339933?style=flat&logo=NodedotJs&logoColor=white"/>
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
