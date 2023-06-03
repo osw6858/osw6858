@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20My%20github%20&fontSize=80)
 
 <!-- 프로필 소개 -->
-# 안녕하세요! 👋 저는 Woong이라고 하는 프론트엔드 개발자입니다.
+# 안녕하세요! 👋 저는 오신웅이라고 하는 프론트엔드 개발자입니다.
 
 제 GitHub 프로필에 오신 것을 환영합니다! React, JavaScript, TypeScript, Redux, Tailwind CSS, Ant Design, Git, HTML, CSS 등을 주력으로 개발하고 있습니다. 매력적이고 직관적인 사용자 인터페이스와 효율적인 기능을 갖춘 웹 애플리케이션을 개발하는 데 열정을 갖고 있습니다.
 
