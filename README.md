@@ -38,8 +38,9 @@
 ## 클론코딩
 프론트엔드 공부 목적으로 제작한 클론코딩 페이지 입니다.
 
-- [Raddit-app](https://github.com/osw6858/raddit-app): 유명 커뮤니티 'Raddit' 클론코딩 페이지 입니다.
 - [React Shop](https://github.com/osw6858/ReactShop): React를 처음 접하고 공부하면서 만든 클론코딩 페이지 입니다.
+- [Raddit-app](https://github.com/osw6858/raddit-app): Next.js와 프론트 백엔드 통신과정을 공부하기 위해 만든 유명 커뮤니티 'Raddit' 클론코딩 페이지 입니다.
+
 
 ## 연락하기
 프로젝트 협업이나 인사, 질문 등 언제든지 연락주세요:
