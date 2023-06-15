@@ -37,8 +37,8 @@ React, JavaScript, TypeScript, Redux, Tailwind CSS, Ant Design, Git, HTML, CSS �
 ## 🐤 프로젝트
 제 주요한 프로젝트 몇 가지를 소개합니다:
 
-- [Search Movie](https://github.com/osw6858/SearchMV): React를 이용한 첫번쨰 개인프로젝트 입니다. 영화검색, 상세정보제공 등의 기능이 있습니다.
 - [Light Weight](https://github.com/osw6858/Light-Weight): TypeScript와 Redux를 공부하며 만든 두번째 개인프로젝트 입니다. 운동계획, 기록관리 등의 기능이 있습니다.
+- [Search Movie](https://github.com/osw6858/SearchMV): React를 이용한 첫번쨰 개인프로젝트 입니다. 영화검색, 상세정보제공 등의 기능이 있습니다.
 - [With Car](https://github.com/osw6858/WithCar): Java와 Spring, My-sql을 이용한 첫번째 팀프로젝트 입니다.
 
 ## 💦 클론코딩
