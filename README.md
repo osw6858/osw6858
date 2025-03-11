@@ -6,6 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osw6858&layout=compact)](https://github.com/osw6858/github-readme-stats)<br>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osw6858)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
