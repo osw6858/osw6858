@@ -3,9 +3,11 @@
 <!-- 프로필 소개 -->
 # 안녕하세요! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osw6858)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osw6858)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osw6858)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osw6858)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
