@@ -18,14 +18,12 @@
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
 
+## ☕️ In my free time...
 
+I’ve been learning **Flutter** and **Dart** in my spare time.  
+Exploring mobile development through small personal projects 🚀
 
-
- 
- 
-
-        
-    
-
-
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
